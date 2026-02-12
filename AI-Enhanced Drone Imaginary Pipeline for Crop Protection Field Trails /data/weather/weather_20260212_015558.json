@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-12T01:55:58.354213",
+  "source": "synthetic",
+  "coordinates": {
+    "lat": 41.878,
+    "lon": -93.098
+  },
+  "current": {
+    "temperature_c": 0.1,
+    "feels_like_c": 0.1,
+    "humidity_pct": 69.9,
+    "pressure_hpa": 1009.7,
+    "wind_speed_ms": 6.9,
+    "wind_direction_deg": 208,
+    "cloud_cover_pct": 61.4,
+    "visibility_m": 6930,
+    "uv_index": 4.7,
+    "description": "Heavy rain"
+  },
+  "precipitation": {
+    "rain_mm": 5.4,
+    "rain_probability_pct": 30.0
+  },
+  "soil": {
+    "moisture": 0.564,
+    "temperature_c": -2.9
+  },
+  "agricultural_alerts": [
+    {
+      "type": "CRITICAL",
+      "category": "frost",
+      "message": "Frost risk \u2014 temperature at 0.1\u00b0C",
+      "severity": 5
+    }
+  ],
+  "dew_point_c": -5.9
+}

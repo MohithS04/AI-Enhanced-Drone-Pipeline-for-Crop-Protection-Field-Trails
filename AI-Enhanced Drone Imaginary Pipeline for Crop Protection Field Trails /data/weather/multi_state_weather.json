@@ -1,0 +1,722 @@
+{
+  "Iowa, USA": {
+    "timestamp": "2026-02-12T01:39:45.056023",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 41.878,
+      "lon": -93.098
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Iowa, USA",
+    "crop": "Corn, Soybeans",
+    "region": "US"
+  },
+  "Illinois, USA": {
+    "timestamp": "2026-02-12T01:39:45.057736",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 40.35,
+      "lon": -89.0
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Illinois, USA",
+    "crop": "Corn, Soybeans",
+    "region": "US"
+  },
+  "Indiana, USA": {
+    "timestamp": "2026-02-12T01:39:45.057766",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 39.85,
+      "lon": -86.26
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Indiana, USA",
+    "crop": "Corn, Soybeans",
+    "region": "US"
+  },
+  "Nebraska, USA": {
+    "timestamp": "2026-02-12T01:39:45.057788",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 41.13,
+      "lon": -98.27
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Nebraska, USA",
+    "crop": "Corn, Cattle",
+    "region": "US"
+  },
+  "Minnesota, USA": {
+    "timestamp": "2026-02-12T01:39:45.057809",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 45.69,
+      "lon": -93.9
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Minnesota, USA",
+    "crop": "Corn, Sugar Beets",
+    "region": "US"
+  },
+  "Kansas, USA": {
+    "timestamp": "2026-02-12T01:39:45.057829",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 38.5,
+      "lon": -98.43
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Kansas, USA",
+    "crop": "Wheat, Sorghum",
+    "region": "US"
+  },
+  "Ohio, USA": {
+    "timestamp": "2026-02-12T01:39:45.057854",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 40.42,
+      "lon": -82.91
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Ohio, USA",
+    "crop": "Soybeans, Corn",
+    "region": "US"
+  },
+  "Wisconsin, USA": {
+    "timestamp": "2026-02-12T01:39:45.057872",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 43.79,
+      "lon": -88.79
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Wisconsin, USA",
+    "crop": "Dairy, Corn",
+    "region": "US"
+  },
+  "Missouri, USA": {
+    "timestamp": "2026-02-12T01:39:45.057890",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 38.57,
+      "lon": -92.6
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Missouri, USA",
+    "crop": "Soybeans, Corn",
+    "region": "US"
+  },
+  "North Dakota, USA": {
+    "timestamp": "2026-02-12T01:39:45.057908",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 47.53,
+      "lon": -99.78
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "North Dakota, USA",
+    "crop": "Wheat, Canola",
+    "region": "US"
+  },
+  "South Dakota, USA": {
+    "timestamp": "2026-02-12T01:39:45.057926",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 43.97,
+      "lon": -99.9
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "South Dakota, USA",
+    "crop": "Corn, Soybeans",
+    "region": "US"
+  },
+  "California, USA": {
+    "timestamp": "2026-02-12T01:39:45.057945",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 36.78,
+      "lon": -119.42
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "California, USA",
+    "crop": "Fruits, Nuts, Vegetables",
+    "region": "US"
+  },
+  "Texas, USA": {
+    "timestamp": "2026-02-12T01:39:45.057968",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 31.97,
+      "lon": -99.9
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Texas, USA",
+    "crop": "Cotton, Cattle",
+    "region": "US"
+  },
+  "Punjab, India": {
+    "timestamp": "2026-02-12T01:39:45.057986",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 30.9,
+      "lon": 75.85
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Punjab, India",
+    "crop": "Wheat, Rice",
+    "region": "Asia"
+  },
+  "S\u00e3o Paulo, Brazil": {
+    "timestamp": "2026-02-12T01:39:45.058008",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": -23.55,
+      "lon": -46.63
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "S\u00e3o Paulo, Brazil",
+    "crop": "Sugarcane, Coffee",
+    "region": "S. America"
+  },
+  "\u00cele-de-France, France": {
+    "timestamp": "2026-02-12T01:39:45.058030",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 48.86,
+      "lon": 2.35
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "\u00cele-de-France, France",
+    "crop": "Wheat, Barley",
+    "region": "Europe"
+  },
+  "Heilongjiang, China": {
+    "timestamp": "2026-02-12T01:39:45.058048",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": 45.75,
+      "lon": 126.65
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "Heilongjiang, China",
+    "crop": "Rice, Soybeans",
+    "region": "Asia"
+  },
+  "New South Wales, AU": {
+    "timestamp": "2026-02-12T01:39:45.058065",
+    "source": "synthetic",
+    "coordinates": {
+      "lat": -33.87,
+      "lon": 151.21
+    },
+    "current": {
+      "temperature_c": 4.4,
+      "feels_like_c": 4.4,
+      "humidity_pct": 61.7,
+      "pressure_hpa": 1014.2,
+      "wind_speed_ms": 6.3,
+      "wind_direction_deg": 316,
+      "cloud_cover_pct": 49.7,
+      "visibility_m": 7513,
+      "uv_index": 5.0,
+      "description": "Heavy rain"
+    },
+    "precipitation": {
+      "rain_mm": 5.0,
+      "rain_probability_pct": 30.0
+    },
+    "soil": {
+      "moisture": 0.589,
+      "temperature_c": 1.4
+    },
+    "agricultural_alerts": [
+      {
+        "type": "INFO",
+        "category": "general",
+        "message": "Conditions favorable for crop growth",
+        "severity": 0
+      }
+    ],
+    "dew_point_c": -3.3,
+    "location_name": "New South Wales, AU",
+    "crop": "Wheat, Wool",
+    "region": "Oceania"
+  }
+}

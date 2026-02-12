@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-12T01:26:00.476111",
+  "source": "synthetic",
+  "coordinates": {
+    "lat": 41.878,
+    "lon": -93.098
+  },
+  "current": {
+    "temperature_c": 4.0,
+    "feels_like_c": 4.0,
+    "humidity_pct": 59.6,
+    "pressure_hpa": 1004.1,
+    "wind_speed_ms": 7.1,
+    "wind_direction_deg": 88,
+    "cloud_cover_pct": 40.8,
+    "visibility_m": 7959,
+    "uv_index": 6.5,
+    "description": "Clear sky"
+  },
+  "precipitation": {
+    "rain_mm": 0,
+    "rain_probability_pct": 10.0
+  },
+  "soil": {
+    "moisture": 0.514,
+    "temperature_c": 0.5
+  },
+  "agricultural_alerts": [
+    {
+      "type": "INFO",
+      "category": "general",
+      "message": "Conditions favorable for crop growth",
+      "severity": 0
+    }
+  ],
+  "dew_point_c": -4.0
+}
