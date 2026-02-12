@@ -167,7 +167,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-crop-health-pipeline.git
+git clone https://github.com/MohithS04/ai-crop-health-pipeline.git
 cd ai-crop-health-pipeline
 
 # Create conda environment
